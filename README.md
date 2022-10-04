@@ -15,9 +15,14 @@ Platform:
 - Highpass_filter_frequency.py：
 
   上面是原圖，下面是處理過的圖。此時的k設為20。
+  
+  
 
   <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_1.png" alt="image-20221004104145624" width=50% height=50%   align='left'/>
 
+
+
+..
 - Highpass_filter_spatial.py：
 
   上面是原圖，下面是處理過的圖。此時的k設為2。
