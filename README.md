@@ -55,8 +55,12 @@ Platform:
 - Unsharp_mask_frequency.py：
 
   上面是原圖，下面是處理過的圖。
+  
 
-  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_5.png" alt="image-20221004104558893" width=50% height=50% align='left' />
+
+  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_5.png" alt="image-20221004104558893" width=50% height=50%  />
+  
+  
 
 - Unsharp_mask_spatial.py：
 
