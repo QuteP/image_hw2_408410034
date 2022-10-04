@@ -25,20 +25,32 @@ Platform:
 - Highpass_filter_spatial.py：
 
   上面是原圖，下面是處理過的圖。此時的k設為2。
+  
+  
 
-  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_2.png" alt="image-20221004104320215"  width=50% height=50%   align='left' />
+  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_2.png" alt="image-20221004104320215"  width=50% height=50%  />
+
+
 
 - Laplacian_filter_frequency.py：
 
   上面是原圖，下面是處理過的圖。
+  
+  
 
-  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_3.png" alt="image-20221004104407727" width=50% height=50%   align='left' />
+  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_3.png" alt="image-20221004104407727" width=50% height=50%  />
+  
+  
 
 - Laplacian_filter_spatial.py：
 
   上面是原圖，中間是用對角線為0的mask處理的結果，下面是用對角線不為0的mask處理的結果。
+  
+  
 
-  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_4.png" alt="image-20221004104529140" width=65% height=65%   align='left' />
+  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_4.png" alt="image-20221004104529140" width=65% height=65% />
+  
+  
 
 - Unsharp_mask_frequency.py：
 
@@ -50,4 +62,6 @@ Platform:
 
   上面是原圖，下面是處理過的圖。
 
-  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_6.png" alt="image-20221004104626679" width=50% height=50% align='left' />
+
+
+  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_6.png" alt="image-20221004104626679" width=50% height=50% />
