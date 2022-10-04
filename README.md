@@ -48,7 +48,7 @@ Platform:
   
   
 
-  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_4.png" alt="image-20221004104529140" width=55% height=55% />
+  <img src="https://github.com/QuteP/image_hw2_408410034/blob/main/result/Figure_4.png" alt="image-20221004104529140" width=60% height=60% />
   
   
 
